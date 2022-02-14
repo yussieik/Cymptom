@@ -1,0 +1,25 @@
+2022-02-14 18:32:58,340.  MAIN  INFO MESSAGE: 'Program started'
+
+2022-02-14 18:33:12,476.  MAIN  INFO MESSAGE: 'Trying connect to database with access key: ********************
+secret key: ****************************************'
+
+2022-02-14 18:33:13,934. DATA_EXTRACTOR  INFO MESSAGE: 'Successful connection to region: us-west-2'
+
+2022-02-14 18:33:14,890. DATA_EXTRACTOR  INFO MESSAGE: 'Successful connection to region: us-east-2'
+
+2022-02-14 18:33:40,050. DATA_EXTRACTOR  INFO MESSAGE: 'Successfully connected to 2/24 regions'
+
+2022-02-14 18:33:40,052. DATA_EXTRACTOR  INFO MESSAGE: 'extracted 1 for instance us-west-2'
+
+2022-02-14 18:33:40,053. DATA_EXTRACTOR  INFO MESSAGE: 'extracted 1 for instance us-east-2'
+
+2022-02-14 18:33:40,053. DATA_EXTRACTOR  INFO MESSAGE: 'surfaced 14 fields for instance 0_us-west-2'
+
+2022-02-14 18:33:40,053. DATA_EXTRACTOR  INFO MESSAGE: 'surfaced 15 fields for instance 0_us-east-2'
+
+2022-02-14 18:33:40,053. INSTANCE  INFO MESSAGE: 'CREATED: Instance 0_us-west-2 with 82 fields.'
+
+2022-02-14 18:33:40,054. INSTANCE  INFO MESSAGE: 'CREATED: Instance 0_us-east-2 with 77 fields.'
+
+2022-02-14 18:37:19,344.  MAIN  INFO MESSAGE: 'Program terminated by user'
+
